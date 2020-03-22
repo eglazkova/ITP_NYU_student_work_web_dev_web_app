@@ -1,68 +1,91 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Every README should start with an H1 -->
+# Full stack evidence of ecological disaster 
+This is my final assignment for the Dynamic Web Development class in ITP, NYU. The course focuses on the fundamentals of building "full stack" web applications. 
 
-## Available Scripts
+![Logo](https://www.openmoji.org/data/color/svg/1F4D4.svg)
 
-In the project directory, you can run:
+<!-- It is good practice to add an about or summary -->
+## About
 
-### `npm start`
+The Good Project Readme Project is a project about about how to make a good Readme so that you can keep your projects well documented and allow yourself and others to build on or learn from your work. The project is meant to be an example for others to learn by example and see what aspects might be necessary for a good readme.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- It is essential to describe how to set up your project -->
+## Setup
 
-### `npm test`
+<!-- Any knowledge or tools you will need before hand -->
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To make a good readme the following prerequisites are necessary:
+1. A text editor - preferably [VS Code](https://code.visualstudio.com/)
+2. An understanding of markdown syntax. You can learn about markdown at this [Markdown Guide](https://www.markdownguide.org/getting-started/)
+3. Tender love and care - writing good, clear, and kind documentation takes a lot of work, but you (and your contributors) will appreciate you. 
 
-### `npm run build`
+<!-- any installation needs should be defined -->
+### Installation
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For this particular project, there are no specific installation requirements, however you might look at some open source projects for inspiration about how to write good installation notes. You can see one example in this [Installing Node.js Guide](../guides/installing-nodejs.md).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<!-- Write instructions on how to start working on your project -->
+### Develop
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To develop this document, you can follow the steps provided below:
+1. create a fork of this project on Github
+2. ping the author of this repo via Github Issues to see if they are looking for contributions on the specific feature you're looking to add
+3. open the file in VS Code and make updates 
+4. add and commit those changes in your forked github repo
+5. make a pull request specifying what additions and changes were made
+6. have a nice chat and communication with me about those changes. 
+7. celebrate the contribution! 
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
+<!-- Notes about the deployment -->
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+This project is hosted on Github. Github renders markdown files.
 
-### `npm run build` fails to minify
+## Built with
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* [VS Code](https://code.visualstudio.com/)
+* [Github](https://github.com)
+
+## Authors
+
+* [Joey Lee](https://jk-lee.com) -- adjunct professor -- [NYU ITP](https://itp.nyu.edu)
+* [Cassie Tarakajian](https://cassietarakajian.com/) -- adjunct professor -- [NYU ITP](https://itp.nyu.edu)
+
+## Code of Conduct
+
+Please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
+
+## License
+
+This is README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
+
+<!-- thank and reference all the things that made your project happen -->
+## Acknowledgements
+
+* [Creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
+* [Openmoji project](https://www.openmoji.org/library/#search=notebook&emoji=1F4D4) for their glyphs
+* [PurpleBooth's Readme Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
+***
+***
+***
+
+<!-- For your assignments you might consider  -->
+# Notes & Process
+
+<!-- How you built this project - Include images, gifs, and notes here -->
+## Process & Documentation
+
+<!-- Any specific challenges or struggles documented -->
+## Challenges & Struggles
+
+<!-- Any questions you have -->
+## Questions
+
+<!-- References for resources and inspiration -->
+## References
+
+* Author First Name, Author Last Name. [Link]()
+* Author First Name, Author Last Name. [Link]()
