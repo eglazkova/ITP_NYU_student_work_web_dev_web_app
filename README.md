@@ -20,6 +20,10 @@ However, this is the most challenging part of the project. I would like people t
 
 I am developing this project within the frameworks of 'Designing meaningful interactions', 'Dynamic Web Development', 'Nature of code', and 'Maths for artists' classes at Interactive Telecommunications Program, NYU, and want to have a ready prototype by June, 2020.
 
+## Basic concept
+
+One of the possible ways to build the MVP looks as follows — on the landing page people are greeted with an interactive map of diseases and marks of the landfills. Below there is an invitation to participate in a survey. The user clicks on the survey, and a message pops out: "for the reliability of the entered data and to avoid duplication of information, we suggest that you log in with Google, Facebook (etc), with phone number, with email, or via Telegram (or any messenger). Also there is the opportunity not to log in. 
+
 ## What is ready for now (March 22, 2020)
 
 Current repository is a VERY BASIC, non-final prototype of the project's client-side part. For now this is the responsive map of the area around Shatura's landfill site built with [react map gl library](https://uber.github.io/react-map-gl/) and [mapbox](https://www.mapbox.com/). 
@@ -59,31 +63,28 @@ Working with Mapbox I struggled with getting my 'mapboxApiAccessToken'. I ended
 
 ## Further development plan
 
-* I want to use Voronoi diagram — “A map divided into cells, each cell covering the region closest to a particular centre" as the tool for the data visualization. 
+* I want to use [Voronoi diagram](https://www.google.com/search?rlz=1C5CHFA_enRU823RU823&q=Voronoi+diagram+pictures&tbm=isch&source=univ&sa=X&ved=2ahUKEwid5LbBrK_oAhU2kHIEHaiXC98QsAR6BAgHEAE&biw=1357&bih=698) — “A map divided into cells, each cell covering the region closest to a particular centre" as the tool for the data visualization. 
+
 "In epidemiology, it can help in identifying the source of infections". 
+
 "One of the first applications of a Voronoi diagram was by Dr John Snow, a prominent London physician. Cholera, which became widespread in the 19th century, has killed tens of millions of people. Before the cholera bacterium was isolated, overcrowding, bad diet, poor sanitation and noxious miasma emanating from rotting organic matter were all suspected. Snow believed that cholera was caused by infected drinking water”.
+
+Thus, it might help to identify the non-legal landfills in different areas. It's also a great visual tool. 
+
+* I also consider adding video to the functionality, for I have been previously working for the video provider that made video streams of the works onthe landfills for the residents of the areas around them.
 
 <a href="https://ibb.co/K6TJKxY"><img src="https://i.ibb.co/mJf3N5m/Screenshot-2020-03-20-at-16-03-11.png" alt="Screenshot-2020-03-20-at-16-03-11" border="0"></a>
 
+* The mail issues to solve for the project include the necessity for the users data to stay safe, necessity to find the way to get rid of trolls or irrelevant data, to motivate people to use the app in the first place and prove its safety. 
 
+* I am currently in the process of research on whether blockchain technology might be helpful.
 
+* I am also in the process of research on whether [Telegram API](https://core.telegram.org/) might be helpful for this project.
+
+* I consider adding additional functionality to the project, such as an app where user can mark the geolocation and upload pictures of the illegal landfills or report any other contravention. 
 
 
 ## Authors
 
 * [Elena Glazkova](https://medium.com/@elenaglazkova) -- MPS candidate -- [NYU ITP](https://itp.nyu.edu)
 
-## Call for collaboration
-
-Please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
-
-## License
-
-This is README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
-
-## Acknowledgements
-
-## References
-
-* Author First Name, Author Last Name. [Link]()
-* Author First Name, Author Last Name. [Link]()
