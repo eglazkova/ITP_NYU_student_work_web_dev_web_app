@@ -26,6 +26,8 @@ One of the possible ways to build the MVP looks as follows — on the landing pa
 
 ## What is ready for now (March 22, 2020)
 
+![demo](https://github.com/eglazkova/dwd-final/blob/master/ezgif.com-video-to-gif.gif)
+
 Current repository is a VERY BASIC, non-final prototype of the project's client-side part. For now this is the responsive map of the area around Shatura's landfill built with [react map gl library](https://uber.github.io/react-map-gl/) and [mapbox](https://www.mapbox.com/). 
 
 [YOUTUBE DEMO IS HERE](https://www.youtube.com/watch?v=wKZ9cbiERiI)
