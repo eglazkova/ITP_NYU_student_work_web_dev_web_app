@@ -57,17 +57,17 @@ Working with Mapbox I struggled with getting my 'mapboxApiAccessToken'. I ended
 
 <a href="https://ibb.co/nCmRxcD"><img src="https://i.ibb.co/GTpFz2V/Screenshot-2020-03-22-at-20-07-24.png" alt="Screenshot-2020-03-22-at-20-07-24" border="0"></a>
 
+## Further development plan
+
+* I want to use Voronoi diagram — “A map divided into cells, each cell covering the region closest to a particular centre" as the tool for the data visualization. 
+"In epidemiology, it can help in identifying the source of infections". 
+"One of the first applications of a Voronoi diagram was by Dr John Snow, a prominent London physician. Cholera, which became widespread in the 19th century, has killed tens of millions of people. Before the cholera bacterium was isolated, overcrowding, bad diet, poor sanitation and noxious miasma emanating from rotting organic matter were all suspected. Snow believed that cholera was caused by infected drinking water”.
+
 <a href="https://ibb.co/K6TJKxY"><img src="https://i.ibb.co/mJf3N5m/Screenshot-2020-03-20-at-16-03-11.png" alt="Screenshot-2020-03-20-at-16-03-11" border="0"></a>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wrmzdcP/Screenshot-2020-03-21-at-21-24-07.png" alt="Screenshot-2020-03-21-at-21-24-07" border="0"></a>
 
 
 
-
-
-
-
-## Further development plan
 
 ## Authors
 
