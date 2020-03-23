@@ -39,7 +39,7 @@ I also have a VERY BASIC, non-final [prototype of the application's server-side 
 The frontend part (map) is now [deployed](https://glitch.com/~eglazkova-dwd-final) on glitch.com
 
 ### Challenges
-Working with Mapbox I struggled with getting my 'mapboxApiAccessToken'. I ended up putting the token directly into th App.js file instead of .env.local file which was [understandably reccommended](https://www.youtube.com/watch?v=JJatzkPcmoI). 
+Working with Mapbox I struggled with getting my 'mapboxApiAccessToken'. I ended up putting the token directly into the App.js file instead of .env.local file which was [understandably reccommended](https://www.youtube.com/watch?v=JJatzkPcmoI). 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Tkn8SSh/Screenshot-2020-03-22-at-16-00-21.png" alt="Screenshot-2020-03-22-at-16-00-21" border="0"></a>
 
