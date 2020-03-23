@@ -18,7 +18,7 @@ I would like to give people living around the opportunity to upload the evidence
 
 However, this is the most challenging part of the project. I would like people to be only able to upload RELIABLE DATA, and at the same time stay ANONYMOUS and SAFE which is relevant to the current political situation in my homeland. If I succeed even just a little, we'll get the tool that might be used to collect data on different controversial subjects including elections or confirmed coronavirus cases.
 
-I am developing this project within the frameworks of 'Designing meaningful interactions', 'Dynamic Web Development', 'Nature of code', and 'Maths for artists' classes at Interactive Telecommunications Program, NYU, and want to have a ready prototype by June, 2020.
+I am developing this project within the frameworks of 'Designing meaningful interactions', 'Dynamic Web Development', ['Nature of code'](https://medium.com/@elenaglazkova/nature-of-code-steering-behaviors-and-simulation-project-c1430076b15b), and 'Maths for artists' classes at Interactive Telecommunications Program, NYU, and want to have a ready prototype by June, 2020.
 
 ## Basic concept
 
@@ -27,6 +27,8 @@ One of the possible ways to build the MVP looks as follows — on the landing pa
 ## What is ready for now (March 22, 2020)
 
 Current repository is a VERY BASIC, non-final prototype of the project's client-side part. For now this is the responsive map of the area around Shatura's landfill built with [react map gl library](https://uber.github.io/react-map-gl/) and [mapbox](https://www.mapbox.com/). 
+
+[YOUTUBE DEMO IS HERE](https://www.youtube.com/watch?v=wKZ9cbiERiI)
 
 
 <a href="https://ibb.co/jJYVsL3"><img src="https://i.ibb.co/Y0SDwtf/Screenshot-2020-03-22-at-19-53-42.png" alt="Screenshot-2020-03-22-at-19-53-42" border="0"></a>
