@@ -6,7 +6,7 @@ I am coming from Russia and believe that in my country ecological disasters of d
 
 I personally experienced this 'phenomena'. When my mother was pregnant with me she lived in the area with exceedence of the fluorin maximum allowable concentration in water, which finally affected me and my health as a child.
 
-Th problem is even deeper. There is very often the lack of reliable data around many ecological issues, such as: landfill sites about the size of the cities (both illegal and legal ones), giant 'storages' of chemical wastes, massive understatement of the ecological catastrophes (explosions, etc.), wrong or no statistics on cases of diseases caused by emissions of harmful substances and fumes. 
+The problem is even deeper. There is very often the lack of reliable data around many ecological issues, such as: landfill sites about the size of the cities (both illegal and legal ones), giant 'storages' of chemical wastes, massive understatement of the ecological catastrophes (explosions, etc.), wrong or no statistics on cases of diseases caused by emissions of harmful substances and fumes. 
 
 So, I am making the tool to collect the data on the harmful causes of such cases. 
 
