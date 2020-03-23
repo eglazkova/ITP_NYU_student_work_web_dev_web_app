@@ -36,7 +36,7 @@ Current repository is a VERY BASIC, non-final prototype of the project's client-
 I also have a VERY BASIC, non-final [prototype of the application's server-side part](https://github.com/eglazkova/DWD-A5-Database-API). 
 
 ### Deployment
-The frontend part (map) is now [deployed]() on glitch.com
+The frontend part (map) is now [deployed](https://glitch.com/~eglazkova-dwd-final) on glitch.com
 
 ### Challenges
 Working with Mapbox I struggled with getting my 'mapboxApiAccessToken'. I ended up putting the token directly into th App.js file instead of .env.local file which was [understandably reccommended](https://www.youtube.com/watch?v=JJatzkPcmoI). 
