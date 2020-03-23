@@ -75,7 +75,7 @@ Thus, it might help to identify the non-legal landfills in different areas. It's
 
 <a href="https://ibb.co/K6TJKxY"><img src="https://i.ibb.co/mJf3N5m/Screenshot-2020-03-20-at-16-03-11.png" alt="Screenshot-2020-03-20-at-16-03-11" border="0"></a>
 
-* The mail issues to solve for the project include the necessity for the users data to stay safe, necessity to find the way to get rid of trolls or irrelevant data, to motivate people to use the app in the first place and prove its safety. 
+* The main issues to solve for the project include the necessity for the users data to stay safe, necessity to find the way to get rid of trolls or irrelevant data, to motivate people to use the app in the first place and prove its safety. 
 
 * I am currently in the process of research on whether blockchain technology might be helpful.
 
