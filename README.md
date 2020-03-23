@@ -71,7 +71,7 @@ Working with Mapbox I struggled with getting my 'mapboxApiAccessToken'. I ended
 
 Thus, it might help to identify the non-legal landfills in different areas. It's also a great visual tool. 
 
-* I also consider adding video to the functionality, for I have been previously working for the video provider that made video streams of the works onthe landfills for the residents of the areas around them.
+* I also consider adding video to the functionality, for I have been previously working for the video provider that made video streams of the works on the landfills for the residents of the areas around them.
 
 <a href="https://ibb.co/K6TJKxY"><img src="https://i.ibb.co/mJf3N5m/Screenshot-2020-03-20-at-16-03-11.png" alt="Screenshot-2020-03-20-at-16-03-11" border="0"></a>
 
